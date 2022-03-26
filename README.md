@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafay</h1>
 <h3 align="center">Discovering new things to learn every day!</h3>
- <p align="center"><img w="500" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="programmer working" /></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter10471&label=Profile%20views&color=0e75b6&style=flat" alt="hunter10471" /> </p>
