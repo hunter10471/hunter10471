@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedrafay_zia" target="blank"><img src="https://img.shields.io/twitter/follow/syedrafay_zia?logo=twitter&style=for-the-badge" alt="syedrafay_zia" /></a> </p>
 
-- 🔭 I’m currently working on [a CRM app](https://github.com/hunter10471/react-projects/tree/master/crm_app)
+- 🔭 I’m currently working on [a microservices app](https://github.com/hunter10471/classifieds-listings-service)
 
 - 🌱 I’m currently learning **MERN stack, Data structures & algorithms' applications**
 
